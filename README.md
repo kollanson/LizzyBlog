@@ -1,0 +1,2 @@
+# LizzyBlog
+Second Semester Project
